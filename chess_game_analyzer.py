@@ -91,7 +91,8 @@ def game_analyzer(flat_list = ['rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQ
 # arguments = [0.01,10,1]
 # print(board_generator(arguments))
 
-print(single_move_evaluator())
+fen = sys.argv[1]
+sys.stdout.write(single_move_evaluator(fen).to_string())
 
 # arguments = [0.01,20,1]
 # print(game_analyzer(board_generator(arguments)))
