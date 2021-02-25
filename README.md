@@ -1,4 +1,4 @@
-# Chess Analizer
+# Chess Analyzer
 
 Some useful functions to analize a or create chess boardstates based on the stockfish AI. The files included are: 
 * chess_game_analizer.py: The main script, includes a group of 3 functions useful for creating and analizing chess boardstates. This script has some testing oprions at the end of it for the different functions implemented in it. 
