@@ -9,3 +9,5 @@ Requirements:
 * Stockfish engine (included in this GitHub page), can be downloaded at https://stockfishchess.org/download/. I recommend building from source, since that worked flawlessly for me. 
 * Python packages: os, sys, re, csv, pandas, chess.engine, chess
 * This was built on python 3.9.2, and we have a venv for it, if anyone wants it, I can be reached by email. 
+
+Usage: As is, the program takes in a FEN position as input and returns the dataframe associated with every possible move and its score along with some other information. An example call would be 
