@@ -18,7 +18,7 @@ Example Input
 
 Example Output
 
-                                                         FEN Player Move Piece  Score   Mate
+FEN Player Move Piece  Score   Mate
 0   rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1  WHITE  Nh3     N  -0.77  False
 1   rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1  WHITE  Nf3     N   0.21  False
 2   rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1  WHITE  Nc3     N  -0.18  False
